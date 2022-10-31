@@ -1,6 +1,6 @@
 # Realtime Chat App
 
-![chat-app-image](https://user-images.githubusercontent.com/91262816/199104588-9e0ee2b5-1d84-44a0-9436-5455e8262401.png)
+![chat-app-image](https://user-images.githubusercontent.com/91262816/199111675-af884dfe-c823-45ed-8ee3-4b2c23347bd0.png)
 
 ## Languages & Tools
 
