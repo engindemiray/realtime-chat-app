@@ -24,3 +24,21 @@ To start the app:
 ``` bash
 $ nodemon server.js
 ```
+## Socket.id
+Each new connection is assigned a random 20-characters identifier.<br/>
+This identifier is synced with the value on the server-side.
+```js
+// server-side
+io.on("connection", (socket) => {
+  console.log(socket.id); // x8WIv7-mJelg7on_ALbx
+});
+
+// client-side
+socket.on("connect", () => {
+  console.log(socket.id); // x8WIv7-mJelg7on_ALbx
+});
+
+socket.on("disconnect", () => {
+  console.log(socket.id); // undefined
+});
+```
