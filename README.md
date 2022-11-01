@@ -7,7 +7,7 @@
 - JavaScript
 - Node.js
 - Express.js
-- Socket.io
+- Socket.IO
 
 ## Installation
 
