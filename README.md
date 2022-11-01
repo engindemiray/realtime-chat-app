@@ -2,7 +2,7 @@
 
 ![chat-app-image](https://user-images.githubusercontent.com/91262816/199111675-af884dfe-c823-45ed-8ee3-4b2c23347bd0.png)
 
-## Languages & Tools
+## Tech Stack
 
 - JavaScript
 - Node.js
