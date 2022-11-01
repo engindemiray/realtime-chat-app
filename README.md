@@ -10,17 +10,16 @@
 - Socket.io
 
 ## Installation
-Run these commands in Terminal.
 
 Creating a package.json file:
 ``` bash
 $ npm init --yes
 ```
-To install Express & Socket.io:
+Install Express & Socket.io with this command:
 ``` bash
 $ npm i express socket.io
 ```
-To start the app:
+Run the app with this command:
 ``` bash
 $ nodemon server.js
 ```
