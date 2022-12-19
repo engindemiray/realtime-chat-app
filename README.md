@@ -11,7 +11,7 @@
 
 ## Installation
 
-Creating a node_modules file:
+Install npm packages:
 ``` bash
 $ npm install
 ```
