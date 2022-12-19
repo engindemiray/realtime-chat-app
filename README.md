@@ -15,10 +15,6 @@ Install npm packages:
 ``` bash
 $ npm install
 ```
-Install Express & Socket.io with this command:
-``` bash
-$ npm i express socket.io
-```
 Run the app with this command:
 ``` bash
 $ nodemon server.js
