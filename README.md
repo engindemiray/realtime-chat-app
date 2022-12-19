@@ -23,6 +23,7 @@ Run the app with this command:
 ``` bash
 $ nodemon server.js
 ```
+You may visit the application on browser with the URL: http://localhost:3000
 ## Socket ID
 Each new connection is assigned a random 20-characters identifier.<br/>
 This identifier is synced with the value on the server-side.
