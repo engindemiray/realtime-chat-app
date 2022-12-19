@@ -11,9 +11,9 @@
 
 ## Installation
 
-Creating a package.json file:
+Creating a node_modules file:
 ``` bash
-$ npm init --yes
+$ npm install
 ```
 Install Express & Socket.io with this command:
 ``` bash
